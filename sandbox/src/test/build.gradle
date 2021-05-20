@@ -1,0 +1,4 @@
+def var = apply plugin: 'java'
+var
+apply plugin: 'application'
+mainClassName = 'MyFirstProgram'
