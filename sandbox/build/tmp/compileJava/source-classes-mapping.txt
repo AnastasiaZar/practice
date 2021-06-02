@@ -1,2 +1,8 @@
+ru/stqa/pft/sandbox/Chtoto.java
+ ru.stqa.pft.sandbox.Chtoto
+ru/stqa/pft/sandbox/Square.java
+ ru.stqa.pft.sandbox.Square
+ru/stqa/pft/sandbox/Rectangle.java
+ ru.stqa.pft.sandbox.Rectangle
 ru/stqa/pft/sandbox/MyFirstProgram.java
  ru.stqa.pft.sandbox.MyFirstProgram
