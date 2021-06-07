@@ -1,11 +1,11 @@
 package ru.stqa.pft.addressbook;
 
-public class newuserdata {
+public class UserData {
     private final String userfirstname;
     private final String userlastname;
     private final String useremail;
 
-    public newuserdata(String userfirstname, String userlastname, String useremail) {
+    public UserData(String userfirstname, String userlastname, String useremail) {
         this.userfirstname = userfirstname;
         this.userlastname = userlastname;
         this.useremail = useremail;
