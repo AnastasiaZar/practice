@@ -1,6 +1,6 @@
-ru/stqa/pft/addressbook/CreatenewUser.java
- com.example.tests.CreatenewUser
-ru/stqa/pft/addressbook/UserTestCases.java
- ru.stqa.pft.addressbook.UserTestCases
-ru/stqa/pft/addressbook/newuserdata.java
- ru.stqa.pft.addressbook.newuserdata
+ru/stqa/pft/addressbook/UserData.java
+ ru.stqa.pft.addressbook.UserData
+ru/stqa/pft/addressbook/CreateNewUser.java
+ ru.stqa.pft.addressbook.CreateNewUser
+ru/stqa/pft/addressbook/TestData.java
+ ru.stqa.pft.addressbook.TestData
