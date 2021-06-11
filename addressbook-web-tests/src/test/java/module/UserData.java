@@ -1,4 +1,4 @@
-package ru.stqa.pft.addressbook;
+package module;
 
 public class UserData {
     private final String userfirstname;

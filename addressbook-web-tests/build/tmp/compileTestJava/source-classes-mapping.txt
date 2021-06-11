@@ -1,6 +1,18 @@
-ru/stqa/pft/addressbook/UserData.java
- ru.stqa.pft.addressbook.UserData
-ru/stqa/pft/addressbook/CreateNewUser.java
- ru.stqa.pft.addressbook.CreateNewUser
-ru/stqa/pft/addressbook/TestData.java
- ru.stqa.pft.addressbook.TestData
+ru/stqa/pft/addressbook/logindata.java
+ ru.stqa.pft.addressbook.logindata
+ru/stqa/pft/addressbook/appmanager/GroupHelper.java
+ ru.stqa.pft.addressbook.appmanager.GroupHelper
+module/UserData.java
+ module.UserData
+tests/CreateNewUser.java
+ tests.CreateNewUser
+ru/stqa/pft/addressbook/appmanager/SessionHelper.java
+ ru.stqa.pft.addressbook.appmanager.SessionHelper
+ru/stqa/pft/addressbook/appmanager/NavigationHelper.java
+ ru.stqa.pft.addressbook.appmanager.NavigationHelper
+tests/UserResetPassword.java
+ tests.UserResetPassword
+tests/TestBase.java
+ tests.TestBase
+ru/stqa/pft/addressbook/appmanager/ApplicationManager.java
+ ru.stqa.pft.addressbook.appmanager.ApplicationManager
