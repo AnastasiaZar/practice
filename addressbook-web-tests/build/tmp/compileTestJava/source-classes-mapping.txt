@@ -1,8 +1,6 @@
-ru/stqa/pft/addressbook/NewUsersData.java
- ru.stqa.pft.addressbook.NewUsersData
-ru/stqa/pft/addressbook/UserResetPasword.java
- ru.stqa.pft.addressbook.UserResetPasword
-ru/stqa/pft/addressbook/TestBase.java
- ru.stqa.pft.addressbook.TestBase
-ru/stqa/pft/addressbook/NewUserCreation.java
- ru.stqa.pft.addressbook.NewUserCreation
+ru/stqa/pft/addressbook/UserData.java
+ ru.stqa.pft.addressbook.UserData
+ru/stqa/pft/addressbook/CreateNewUser.java
+ ru.stqa.pft.addressbook.CreateNewUser
+ru/stqa/pft/addressbook/TestData.java
+ ru.stqa.pft.addressbook.TestData
